@@ -64,5 +64,5 @@ The script expects a specific directory structure. It creates required directori
 This script serves as a basic RNA-Seq analysis template. Make sure to adapt it to your specific data, tools, and file names. Ensure that the necessary tools are correctly configured and available in your system.
 
 **Author:** Marcello Beltrami
-**Last Updated:** 24/09/2023
+**Last Updated:** 26/09/2023
 
