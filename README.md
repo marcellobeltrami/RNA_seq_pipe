@@ -2,7 +2,7 @@
 
 ## Overview
 
-This script automates a basic RNA-Seq data analysis workflow. It assumes that you have previously run an installation script, generated a specific directory structure, and have the necessary tools installed.
+This script automates a basic RNA-Seq data analysis workflow. It assumes that you have previously run an installation script.
 
 ## Assumptions
 
