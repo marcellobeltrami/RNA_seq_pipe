@@ -1,4 +1,4 @@
-# RNA_seq_pipe 
+# RNA_seq_pipe 📌
 
 ## Overview
 
